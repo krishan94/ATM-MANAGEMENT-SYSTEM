@@ -6,10 +6,10 @@ def atm_management():
     while True:
         print("\n Welcome To The ATM")
         print("\n 1. Check Pin Authentication💳 ")
-        print("\n 2. Check Balance💲 ")
-        print("\n 3. Deposit money💰 ")
-        print("\n 4. Withdraw money💵 ")
-        print("\n 5. Exit🚪: ")
+        print("\n 2. Check Balance ")
+        print("\n 3. Deposit money ")
+        print("\n 4. Withdraw money ")
+        print("\n 5. Exit: ")
 
         choice = int(input("Enter your choice: "))
         if choice == 1:
