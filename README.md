@@ -115,6 +115,7 @@ This project is developed for educational and practice purposes only.
 ## 👨‍💻 Author
 
 **Krishan**
+
 Python Developer | Beginner Projects | Learning by Building
 
 ---
