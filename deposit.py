@@ -10,7 +10,7 @@ def deposit():
                 if y == acc_details[x]:
                     z =int(input("Enter the amount:"))
                     balance[x] = balance.get(x, 0) + z
-                    print("Money deposited Successful")
+                    print("Money deposited Successful ")
                     print("Your account balance :", balance.get(x,0))
                     break
                 else:
